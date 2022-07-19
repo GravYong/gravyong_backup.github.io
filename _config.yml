@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leo C. Stein"
+title                    : "Yong"
 title_separator          : "-"
-name                     : "Leo C. Stein"
+name                     : "Yong"
 description              : "Assistant Professor @ U of MS. Specializing in gravity and general relativity."
-url                      : "https://duetosymmetry.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gravyong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
