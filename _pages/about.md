@@ -8,8 +8,8 @@ header:
   overlay_filter: 1
 ---
 
-![]({{ site.url }}/images/leo-chalkboard-new-scaled.jpg)
-{: .align-right style="width: 375px"}
+![]({{ site.url }}/images/yong-black.png)
+{: .align-right style="width: 300px"}
 
 I am currently a PhD student in the
 [Department of Astronomy](http://vega.bac.pku.edu.cn) at 
