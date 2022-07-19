@@ -80,16 +80,16 @@ author:
   name             : "Yong Gao"
   avatar           : "leo-color-head-shot.jpg"
   bio              : "PhD student at Department of Astronomy, Peking University."
-  location         : "Beijing, 100871"
+  location         : "Beijing, China"
   email            : "gaoyong.physics@pku.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "leo.stein"
+#   facebook         : "leo.stein"
   foursquare       :
-  github           : "duetosymmetry"
+  github           : "GravYong"
   google_plus      :
   keybase          :
   instagram        :
@@ -100,16 +100,16 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "duetosymmetry"
+#   twitter          : "duetosymmetry"
   vine             :
   weibo            :
   xing             :
   youtube          :
   # Custom author fields follow
-  arxiv            : "stein_l_1"
-  orcid            : "0000-0001-7559-9597"
-  inspire          : "L.C.Stein.2"
-  google-scholar   : "6wuRRmcAAAAJ"
+#   arxiv            : "stein_l_1"
+  orcid            : "0000-0003-1390-5477"
+#   inspire          : "L.C.Stein.2"
+  google-scholar   : "rVmSIyoAAAAJ&hl"
 
 
 # Reading Files
