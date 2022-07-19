@@ -78,7 +78,7 @@ og_image                 : "apple-eye.jpg" # Open Graph/Twitter default site ima
 # Site Author
 author:
   name             : "Yong Gao"
-  avatar           : "yong-color-head-shot.jpg"
+  avatar           : "yong-head.png"
   bio              : "PhD student at Department of Astronomy, Peking University."
   location         : "Beijing, China"
   email            : "gaoyong.physics@pku.edu.cn"
