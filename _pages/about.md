@@ -5,7 +5,7 @@ permalink: /about/
 modified: 2015-08-30
 header:
   overlay_image: apple-eye.jpg
-  overlay_filter: 0.1
+  overlay_filter: 1
 ---
 
 ![]({{ site.url }}/images/leo-chalkboard-new-scaled.jpg)
