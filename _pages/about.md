@@ -11,12 +11,11 @@ header:
 ![]({{ site.url }}/images/yong-black.png)
 {: .align-right style="width: 300px"}
 
-I am currently a PhD student in the
-[Department of Astronomy](http://vega.bac.pku.edu.cn) at 
-[Peking University](https://www.pku.edu.cn).
+I am currently a PhD student in the [Department of Astronomy](http://vega.bac.pku.edu.cn) at [Peking University](https://www.pku.edu.cn).
 
-My research interests are studying the equation of state of neutron stars with 
-electromagnetic and gravitational radiations.
+My research interests are studying the structures of neutron stars with 
+electromagnetic/gravitational radiations and test gravity in the strong field 
+regime of neutron stars and black holes.
 
 
 Please see my [research]({{ site.url }}/research/) page for more
