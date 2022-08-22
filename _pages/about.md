@@ -29,4 +29,3 @@ Please see my [research]({{ site.url }}/research/) page for more details of my r
 [curriculum vitae]({{ site.url }}/Yong.pdf).
 
 
-This website is cloned from the personal webpage of [Leo Stein](https://github.com/duetosymmetry/web-site).

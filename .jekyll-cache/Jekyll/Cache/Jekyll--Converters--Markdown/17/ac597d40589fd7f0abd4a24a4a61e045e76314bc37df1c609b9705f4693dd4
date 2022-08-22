@@ -1,0 +1,102 @@
+I":<p>Here is a collection of links you may find useful. If there are some
+links you think ought to be here, feel free to suggest them to me.</p>
+
+<h1 id="physics">Physics</h1>
+
+<ul>
+  <li><a href="http://jacobi.luc.edu/">Bob McNees’s</a> collection of
+<a href="http://jacobi.luc.edu/Useful.html">useful conventions, definitions, identities, and formulas</a> in
+general relativity</li>
+  <li><a href="http://www.astro.cornell.edu/~favata/gwresources.html">Gravitational-wave resources</a> list from <a href="http://www.astro.cornell.edu/~favata/">Marc Favata</a></li>
+  <li><a href="http://hyperspace.uni-frankfurt.de/">Hyperspace list</a> of
+gravity conferences and jobs</li>
+  <li><a href="http://www.phy.olemiss.edu/Colloquia/index.html">Seminar and colloquium
+calendar</a> at the
+<a href="http://physics.olemiss.edu/">U of MS physics and astronomy
+department</a></li>
+</ul>
+
+<h1 id="papers">Papers</h1>
+
+<ul>
+  <li><a href="https://arxiv.org/"><i class="ai ai-fw ai-arxiv" aria-hidden="true"></i> arXiv</a> preprints service. I typically read:
+    <ul>
+      <li><a href="https://arxiv.org/list/gr-qc/new">gr-qc</a>,</li>
+      <li><a href="https://arxiv.org/list/hep-th/new">hep-th</a>,</li>
+      <li><a href="https://arxiv.org/list/astro-ph/new">astro-ph</a></li>
+    </ul>
+  </li>
+  <li><a href="https://inspirehep.net/"><i class="ai ai-fw ai-inspire" aria-hidden="true"></i> INSPIRE</a> system
+    <ul>
+      <li><a href="https://inspirehep.net/search?p=exactauthor%3AL.C.Stein.2">My papers on INSPIRE</a></li>
+    </ul>
+  </li>
+  <li><a href="https://ui.adsabs.harvard.edu/"><i class="ai ai-fw ai-ads" aria-hidden="true"></i> NASA ADS</a> service</li>
+</ul>
+
+<h1 id="software">Software</h1>
+
+<ul>
+  <li>arXiv keys:
+I wanted keyboard navigation on the arXiv so I made this
+<a href="https://chrome.google.com/webstore/detail/arxiv-keys/fkjjdlbhliopfhgddlpoggpmpgjfaojd">extension for Chrome <i class="fa fa-chrome" aria-hidden="true"></i></a>
+and
+<a href="https://addons.mozilla.org/en-US/firefox/addon/arxiv-keys/">addon for Firefox <i class="fa fa-firefox" aria-hidden="true"></i></a>.
+You can get the <a href="https://github.com/duetosymmetry/arXiv-keys">arXiv-keys source on github <i class="fa fa-github" aria-hidden="true"></i></a>.</li>
+  <li><a href="http://xact.es/">xAct/xTensor</a>: I make xTensive use of (and have
+contributed to) this system for abstract and component tensor math
+in Mathematica.
+    <ul>
+      <li><a href="http://contrib.xact.es/">Community-contributed packages</a> for
+ xAct (I help maintain).</li>
+      <li><a href="https://github.com/xAct-contrib/xTerior">xTerior</a>: I coauthored
+this package for exterior differential geometry</li>
+    </ul>
+  </li>
+  <li>I use
+<a href="http://www.gnu.org/software/emacs/">emacs</a> for <s>writing</s>
+everything.
+    <ul>
+      <li>Use a modern emacs and package management
+(package.el, should be builtin).</li>
+      <li>Add <a href="https://melpa.org/#/">MELPA</a>
+to your list of package-archives.</li>
+      <li>Make sure you have <a href="https://www.gnu.org/software/auctex/">AUCTeX</a></li>
+      <li>Make sure you have <a href="https://magit.vc/">magit</a></li>
+      <li>I’ve made <a href="https://github.com/duetosymmetry/dotemacsd">my <code class="language-plaintext highlighter-rouge">.emacs.d/</code> directory available on github <i class="fa fa-github" aria-hidden="true"></i></a>.</li>
+    </ul>
+  </li>
+  <li><a href="http://www.latex-project.org/">LaTeX</a>
+    <ul>
+      <li><a href="https://www.gnu.org/software/auctex/">AUCTeX</a> makes writing LaTeX
+in emacs better.</li>
+      <li><a href="https://www.tug.org/texlive/">TeX Live</a>;
+<a href="https://www.tug.org/mactex/">MacTeX</a></li>
+      <li>Make sure you use synctex. It
+works with <a href="http://skim-app.sourceforge.net/">Skim.app</a>, which is
+a better PDF reader than Apple’s Preview.app.</li>
+    </ul>
+  </li>
+  <li><a href="http://git-scm.com/">git</a>: I recommend using git for revision control
+    <ul>
+      <li><a href="https://github.com/duetosymmetry">Leo C. Stein on github <i class="fa fa-github" aria-hidden="true"></i></a></li>
+      <li><a href="https://github.com/duetosymmetry/web-site">This web page’s repo <i class="fa fa-github" aria-hidden="true"></i></a></li>
+      <li><a href="https://magit.vc/">magit</a> is the best way to use git from emacs.</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/duetosymmetry/make-iop-author-list">make-iop-author-list</a>: If you find yourself in the unenviable position of needing to create
+a long LaTeX author list for an IOP publication, then you don’t get
+nice <code class="language-plaintext highlighter-rouge">\affiliation{}</code> macros (like in revtex, for example) to do the
+work for you. Therefore try this script.</li>
+  <li><a href="http://jekyllrb.com/">Jekyll</a>: This web site was made using Jekyll.</li>
+</ul>
+
+<h1 id="other">Other</h1>
+
+<ul>
+  <li><a href="http://dlmf.nist.gov">Digital library of mathematical functions</a>
+(DLMF): This NIST reference replaces Abromowitz and Stegun.</li>
+  <li><a href="http://www.astrobetter.com/wiki/tiki-index.php?page=Rumor+Mill">Astrophysics jobs rumor mill</a>
+wiki.</li>
+</ul>
+:ET
