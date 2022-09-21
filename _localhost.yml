@@ -77,20 +77,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leo C. Stein"
-  avatar           : "leo-color-head-shot.jpg"
-  bio              : "Asst. Professor, Ole Miss. Black holes, gravitational waves, general relativity and beyond."
-  location         : "Oxford, MS"
-  email            : "lcstein@olemiss.edu"
+  name             : "Yong Gao"
+  avatar           : "yong-head.png"
+  bio              : "PhD student, neutron stars, gravitational waves."
+  location         : "Beijing, China"
+  email            : "gaoyong.physics@pku.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "leo.stein"
+  # facebook         : "leo.stein"
   foursquare       :
-  github           : "duetosymmetry"
-  google_plus      : "LeoStein"
+  github           : "Gravyong"
+  # google_plus      : "LeoStein"
   keybase          :
   instagram        :
   lastfm           :
@@ -100,13 +100,13 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "duetosymmetry"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   # Custom author fields follow
-  arxiv            : "stein_l_1"
+  arxiv            : 
   orcid            : "0000-0001-7559-9597"
   inspire          : "L.C.Stein.2"
   google-scholar   : "6wuRRmcAAAAJ"
