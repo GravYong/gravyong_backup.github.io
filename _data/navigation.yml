@@ -3,18 +3,22 @@ main:
 - title: About
   url: /about/
 
-- title: CV
-  url: /Yong.pdf
-  alt: Curriculum Vitae
-
-- title: Teaching
-  url: /teaching/
+- title: Posts
+  url: /posts/
 
 - title: Publications
   url: /pubs/
 
-- title: All Posts
-  url: /posts/
+- title: Teaching
+  url: /teaching/
+
+- title: CV
+  url: /Yong.pdf
+  alt: Curriculum Vitae
 
 - title: Links
   url: /links/
+
+- title: Life
+  url: /links/
+
