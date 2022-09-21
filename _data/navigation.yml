@@ -1,7 +1,7 @@
 # Site navigation links
 main:
-- title: About
-  url: /about/
+# - title: About
+#   url: /about/
 
 - title: Posts
   url: /posts/
@@ -11,6 +11,9 @@ main:
 
 - title: Teaching
   url: /teaching/
+
+- title: Talks
+  url: /talks/
 
 - title: CV
   url: /Yong.pdf

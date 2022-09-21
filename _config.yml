@@ -55,12 +55,12 @@ yandex_site_verification :
 
 # Social Sharing
 # twitter:
-#   username               : "duetosymmetry"
+#   username               : 
 # facebook:
-#   username               : "leo.stein"
+#   username               : 
 #   app_id                 :
 #   publisher              :
-og_image                 : "apple-eye.jpg" # Open Graph/Twitter default site image
+og_image                 :  # Open Graph/Twitter default site image
 # # For specifying social profiles
 # # - https://developers.google.com/structured-data/customize/social-profiles
 # social:
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-#   twitter          : "duetosymmetry"
+#   twitter          : 
   vine             :
   weibo            :
   xing             :
