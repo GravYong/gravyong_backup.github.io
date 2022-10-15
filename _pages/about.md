@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: " "
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-# header:
-#   overlay_image: apple-eye.jpg
-#   overlay_filter: 0.1 -->
+header:
+   overlay_image: apple-eye.jpg
+   overlay_filter: 0.1 -->
 ---
 
 
