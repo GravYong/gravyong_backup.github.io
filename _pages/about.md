@@ -1,21 +1,24 @@
 ---
-permalink: /about/
+permalink: /
 title: "About me"
 # excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
+# redirect_from: 
+#   - /about/
 header:
-   overlay_image: head.png
-   overlay_filter: 0.1
+   overlay_image: header.png
+   overlay_filter: 0.3
 ---
 
-![]({{ site.url }}/images/yong_front3.png)
+![]({{ site.url }}/images/yong_front.png)
 {: .align-right style="width: 300px"} 
 
 I am currently a PhD student in the [Department of Astronomy](http://vega.bac.pku.edu.cn/) and the [Kavli Institute for 
 Astronomy and Astrophysics](https://kiaa.pku.edu.cn/) at the [Peking University](https://english.pku.edu.cn/). 
 
+Briefly, My research interests are probing the dense matter inside neutron stars and testing Einstein's theory of 
+general relativity in the strong field of gravity, such as neutron stars and black holes. I mainly focus on gravitational
+waves and pulsar timing to study these two areas.
 
 
 Please see my [research]({{ site.url }}/research/) page for more
