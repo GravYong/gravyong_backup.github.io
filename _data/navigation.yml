@@ -1,27 +1,26 @@
 # Site navigation links
 main:
+
 # - title: About
 #   url: /about/
 
-- title: Posts
+- title: Research
   url: /posts/
-
-- title: Publications
-  url: /pubs/
 
 - title: Teaching
   url: /teaching/
 
-- title: Talks
-  url: /talks/
+- title: Publications
+  url: /pubs/
 
 - title: CV
   url: /Yong.pdf
   alt: Curriculum Vitae
 
+- title: Talks
+  url: /talks/
+
 - title: Links
   url: /links/
 
-- title: Life
-  url: /links/
 
