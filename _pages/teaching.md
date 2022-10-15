@@ -5,9 +5,9 @@ permalink: /teaching/
 modified: 2022-10-15
 excerpt:
 tags:
-header:
-    overlay_image: apple-eye.jpg
-    overlay_filter: 0.1 -->
+# header:
+#     overlay_image: apple-eye.jpg
+#     overlay_filter: 0.1 -->
 ---
 
 # Teaching Assistant
