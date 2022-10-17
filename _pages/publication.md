@@ -20,7 +20,7 @@ and
 <br>
 I also list my publications below for consistency.
 </p>
----
+<hr style="border:1px solid gray">
 
 # 2022
 
@@ -114,7 +114,7 @@ I also list my publications below for consistency.
   [Astron. Nachr. **342**, 364](https://doi.org/10.1002/asna.202113935)
   <a href="http://arxiv.org/abs/2011.04472" style="color: pink;">[arXiv]</a>.
 {: reversed="reversed"}
-
+---
 
 # 2020
 
