@@ -46,7 +46,7 @@ I also list my publications below for consistency.
   (2022)
   *Oscillation modes and gravitational waves from strangeon stars*,
   [Mon. Not. R. Astron. Soc. **516**, 6172](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac2622/6705433)
-  <a href="http://arxiv.org/abs/2206.09407" style="color: pink;">[arXiv]</a>.
+  <a href="http://arxiv.org/abs/2206.09407" style="color: #F48FB1;">[arXiv]</a>.
 
 4. **Y, Gao**, 
   X.-Y. Lai, 
@@ -55,7 +55,7 @@ I also list my publications below for consistency.
   (2022)
   *Rotation and deformation of strangeon stars in the Lennard-Jones model*, 
   [Mon. Not. R. Astron. Soc. **509**, 2758](https://doi.org/10.1093/mnras/stab3181)
-  <a href="http://arxiv.org/abs/2109.13234" style="color: pink;">[arXiv]</a>.
+  <a href="http://arxiv.org/abs/2109.13234" style="color: #F48FB1;">[arXiv]</a>.
 
 5. R. Xu, 
   **Y. Gao**, 
@@ -63,7 +63,7 @@ I also list my publications below for consistency.
   (2022)
   *Neutron stars in massive scalar-Gauss-Bonnet gravity: Spherical structure and time-independent perturbations*, 
   [Phys. Rev. D **105**, 024003](https://doi.org/10.1103/PhysRevD.105.024003)
-  <a href="http://arxiv.org/abs/2111.06561" style="color: pink;">[arXiv]</a>.
+  <a href="http://arxiv.org/abs/2111.06561" style="color: #F48FB1;">[arXiv]</a>.
 {: reversed="reversed"}
 
 ---
@@ -77,7 +77,7 @@ I also list my publications below for consistency.
   (2021)
   *Scalarized neutron stars in massive scalar-tensor gravity: X-ray pulsars and tidal deformability*, 
   [Phys. Rev. D **104**, 104014](https://doi.org/10.1103/PhysRevD.104.104014)
-  <a href="http://arxiv.org/abs/2109.13453" style="color: pink;">[arXiv]</a>.
+  <a href="http://arxiv.org/abs/2109.13453" style="color: #F48FB1;">[arXiv]</a>.
 
 2. R. Xu, 
   **Y. Gao**,
@@ -85,7 +85,7 @@ I also list my publications below for consistency.
   (2021)
   *Signature of Lorentz violation in continuous gravitational-wave spectra of ellipsoidal neutron stars*, 
   [Galaxies **9**, 12](https://doi.org/10.3390/galaxies9010012)
-  <a href="http://arxiv.org/abs/2101.09431" style="color: pink;">[arXiv]</a>.
+  <a href="http://arxiv.org/abs/2101.09431" style="color: #F48FB1;">[arXiv]</a>.
 
 3. J. Zhao, 
   L. Shao, 
@@ -96,7 +96,7 @@ I also list my publications below for consistency.
   (2021) 
   *Probing dipole radiation from binary neutron stars with ground-based laser-interferometer and atom-interferometer gravitational-wave observatories*, 
   [Phys. Rev. D **104**, 084008](https://doi.org/10.1103/PhysRevD.104.084008)
-  <a href="http://arxiv.org/abs/2106.04883" style="color: pink;">[arXiv]</a>.
+  <a href="http://arxiv.org/abs/2106.04883" style="color: #F48FB1;">[arXiv]</a>.
 
 4. R. Xu, 
   **Y. Gao**, 
@@ -104,7 +104,7 @@ I also list my publications below for consistency.
   (2021)
   *Precession of spheroids under Lorentz violation and observational consequences for neutron stars*, 
   [Phys. Rev. D {**103**, 084028](https://doi.org/10.1103/PhysRevD.103.084028)
-  <a href="http://arxiv.org/abs/2012.01320" style="color: pink;">[arXiv]</a>.
+  <a href="http://arxiv.org/abs/2012.01320" style="color: #F48FB1;">[arXiv]</a>.
 
 
 5. **Y. Gao**, 
@@ -112,7 +112,7 @@ I also list my publications below for consistency.
   (2021) 
   *Precession of triaxially deformed neutron stars*, 
   [Astron. Nachr. **342**, 364](https://doi.org/10.1002/asna.202113935)
-  <a href="http://arxiv.org/abs/2011.04472" style="color: pink;">[arXiv]</a>.
+  <a href="http://arxiv.org/abs/2011.04472" style="color: #F48FB1;">[arXiv]</a>.
 {: reversed="reversed"}
 ---
 
@@ -127,7 +127,7 @@ I also list my publications below for consistency.
   (2020) 
   *Triaxially-deformed freely-precessing neutron stars: continuous electromagnetic and gravitational radiation*, 
   [Mon. Not. R. Astron. Soc. **498**, 1826](https://doi.org/10.1093/mnras/staa2476)
-  <a href="http://arxiv.org/abs/2007.02528" style="color: pink;">[arXiv]</a>.
+  <a href="http://arxiv.org/abs/2007.02528" style="color: #F48FB1;">[arXiv]</a>.
 
 2. C. Liu, 
   L. Shao, 
@@ -136,6 +136,6 @@ I also list my publications below for consistency.
   (2020)
   *Multiband observation of LIGO/Virgo binary black hole mergers in the gravitational-wave transient catalog GWTC-1*, 
   [Mon. Not. R. Astron. Soc. **496**, 182](https://doi.org/10.1093/mnras/staa1512)
-  <a href="http://arxiv.org/abs/2004.12096" style="color: pink;">[arXiv]</a>.
+  <a href="http://arxiv.org/abs/2004.12096" style="color: #F48FB1;">[arXiv]</a>.
 {: reversed="reversed"}
 
