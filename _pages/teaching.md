@@ -15,3 +15,4 @@ header:
  - [Electrodynamics (B)](http://friendshao.github.io/teaching/ced22/), Fall 2022, taught by Lijing Shao
  - [General Physics I](http://friendshao.github.io/teaching/phy21/), *including mechanics & electromagnetism, Fall 2021, taught by Lijing Shao
  - [Theoretical Mechanics (A)](http://friendshao.github.io/teaching/thmech19/), Fall 2019, taught by Lijing Shao
+ - [Introduction to Astrophysics](https://psr.pku.edu.cn/rxx/teach/astro/), Spring 2018, taught by Renxin Xu

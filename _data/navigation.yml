@@ -2,7 +2,7 @@
 main:
 
 # - title: About
-#   url: /about/
+#   url: /about1/
 
 - title: Research
   url: /research/
@@ -11,7 +11,7 @@ main:
   url: /teaching/
 
 - title: Publications
-  url: /pubs/
+  url: /publication/
 
 - title: CV
   url: /cv/
