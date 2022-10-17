@@ -10,3 +10,132 @@ header:
     overlay_filter: 0.1 
 ---
 
+<p>
+In online databases:
+<span class="archive__item-title">
+<a href="https://orcid.org/{{ site.author.orcid }}"><i class="ai ai-fw ai-orcid" aria-hidden="true"></i> ORCiD</a>,
+<a href="https://scholar.google.com/citations?user={{ site.author.google-scholar }}"><i class="ai ai-fw ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>,
+and
+<a href="https://inspirehep.net/search?p=exactauthor%3A{{ site.author.inspire }}"><i class="ai ai-fw ai-inspire" aria-hidden="true"></i> INSPIRE</a></span>.
+<br>
+I also list my publications below for consistency.
+</p>
+---
+
+# 2022
+
+1. **Y. Gao**,
+  G. Desvignes,
+  D. I. Jones,
+  M. Kramer,
+  G. Yim,
+  *Precession of magnetars: dynamical evolutions and modulations on polarized electromagnetic waves*,
+  submitted to MNRAS.
+
+2. **Y. Gao**, 
+  R. Xu, 
+  L. Shao, 
+  *Precession of spheroids under Lorentz violation and observational consequences for neutron stars*, 
+  Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry, in press.
+
+3. H.-B. Li, 
+  **Y. Gao**,
+  L. Shao, 
+  R.-X. Xu, 
+  R. Xu, 
+  (2022)
+  *Oscillation modes and gravitational waves from strangeon stars*,
+  [Mon. Not. R. Astron. Soc. **516**, 6172](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac2622/6705433)
+  <a href="http://arxiv.org/abs/2206.09407" style="color: pink;">[arXiv]</a>.
+
+4. **Y, Gao**, 
+  X.-Y. Lai, 
+  L. Shao, 
+  R.-X. Xu,
+  (2022)
+  *Rotation and deformation of strangeon stars in the Lennard-Jones model*, 
+  [Mon. Not. R. Astron. Soc. **509**, 2758](https://doi.org/10.1093/mnras/stab3181)
+  <a href="http://arxiv.org/abs/2109.13234" style="color: pink;">[arXiv]</a>.
+
+5. R. Xu, 
+  **Y. Gao**, 
+  L. Shao, 
+  (2022)
+  *Neutron stars in massive scalar-Gauss-Bonnet gravity: Spherical structure and time-independent perturbations*, 
+  [Phys. Rev. D **105**, 024003](https://doi.org/10.1103/PhysRevD.105.024003)
+  <a href="http://arxiv.org/abs/2111.06561" style="color: pink;">[arXiv]</a>.
+{: reversed="reversed"}
+
+---
+
+# 2021
+
+1.  Z. Hu, 
+  **Y. Gao**,
+  R. Xu, 
+  L. Shao, 
+  (2021)
+  *Scalarized neutron stars in massive scalar-tensor gravity: X-ray pulsars and tidal deformability*, 
+  [Phys. Rev. D **104**, 104014](https://doi.org/10.1103/PhysRevD.104.104014)
+  <a href="http://arxiv.org/abs/2109.13453" style="color: pink;">[arXiv]</a>.
+
+2. R. Xu, 
+  **Y. Gao**,
+  L. Shao, 
+  (2021)
+  *Signature of Lorentz violation in continuous gravitational-wave spectra of ellipsoidal neutron stars*, 
+  [Galaxies **9**, 12](https://doi.org/10.3390/galaxies9010012)
+  <a href="http://arxiv.org/abs/2101.09431" style="color: pink;">[arXiv]</a>.
+
+3. J. Zhao, 
+  L. Shao, 
+  **Y. Gao**,
+  C. Liu, 
+  Z. Cao, 
+  B.-Q. Ma,
+  (2021) 
+  *Probing dipole radiation from binary neutron stars with ground-based laser-interferometer and atom-interferometer gravitational-wave observatories*, 
+  [Phys. Rev. D **104**, 084008](https://doi.org/10.1103/PhysRevD.104.084008)
+  <a href="http://arxiv.org/abs/2106.04883" style="color: pink;">[arXiv]</a>.
+
+4. R. Xu, 
+  **Y. Gao**, 
+  L. Shao, 
+  (2021)
+  *Precession of spheroids under Lorentz violation and observational consequences for neutron stars*, 
+  [Phys. Rev. D {**103**, 084028](https://doi.org/10.1103/PhysRevD.103.084028)
+  <a href="http://arxiv.org/abs/2012.01320" style="color: pink;">[arXiv]</a>.
+
+
+5. **Y. Gao**, 
+  L. Shao,
+  (2021) 
+  *Precession of triaxially deformed neutron stars*, 
+  [Astron. Nachr. **342**, 364](https://doi.org/10.1002/asna.202113935)
+  <a href="http://arxiv.org/abs/2011.04472" style="color: pink;">[arXiv]</a>.
+{: reversed="reversed"}
+
+
+# 2020
+
+1. **Y. Gao**, 
+  L. Shao, 
+  R. Xu, 
+  L. Sun, 
+  C. Liu, 
+  R.-X. Xu,
+  (2020) 
+  *Triaxially-deformed freely-precessing neutron stars: continuous electromagnetic and gravitational radiation*, 
+  [Mon. Not. R. Astron. Soc. **498**, 1826](https://doi.org/10.1093/mnras/staa2476)
+  <a href="http://arxiv.org/abs/2007.02528" style="color: pink;">[arXiv]</a>.
+
+2. C. Liu, 
+  L. Shao, 
+  J. Zhao, 
+  **Y. Gao**, 
+  (2020)
+  *Multiband observation of LIGO/Virgo binary black hole mergers in the gravitational-wave transient catalog GWTC-1*, 
+  [Mon. Not. R. Astron. Soc. **496**, 182](https://doi.org/10.1093/mnras/staa1512)
+  <a href="http://arxiv.org/abs/2004.12096" style="color: pink;">[arXiv]</a>.
+{: reversed="reversed"}
+
