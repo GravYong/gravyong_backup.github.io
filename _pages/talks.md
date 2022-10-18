@@ -1,5 +1,5 @@
 ---
-title: "Talks and presentations"
+title: "Talks"
 date: 2018-08-20
 permalink: /talks/
 modified: 2022-10-15
