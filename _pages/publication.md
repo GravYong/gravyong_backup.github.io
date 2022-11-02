@@ -25,6 +25,7 @@ I also list my publications below for consistency.
 # 2022
 
 1. **Y. Gao**,
+  L. Shao,
   G. Desvignes,
   D. I. Jones,
   M. Kramer,
