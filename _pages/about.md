@@ -24,7 +24,7 @@ waves and pulsar timing to study these two areas.
 
 Please see my [research]({{ site.url }}/research/) page for more
 details of my research interests. You can also see my
-[publications]({{ site.url }}/pubs/) page for a list of my relevant
+[publications]({{ site.url }}/publication/) page for a list of my relevant
 publications and work in progress. 
 
 
