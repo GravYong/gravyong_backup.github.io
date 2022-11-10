@@ -17,10 +17,7 @@ I am currently a PhD student in the [gravitational astrophysics](https://kiaagra
 of [Lijing Shao](http://friendshao.github.io/about/) at the [Peking University](https://english.pku.edu.cn/).
 I am also a member of the [pulsar group](https://psr.pku.edu.cn/) at the Peking University.
 
-Briefly, My research interests are probing the dense matter inside neutron stars and testing Einstein's theory of 
-general relativity in the strong field of gravity, such as neutron stars and black holes. I mainly use gravitational
-waves and pulsar timing to study these two areas.
-
+Briefly, My research interests center around compact stars and strong-field gravity. 
 
 Please see my [research]({{ site.url }}/research/) page for more
 details of my research interests. You can also see my

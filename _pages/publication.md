@@ -104,7 +104,7 @@ I also list my publications below for consistency.
   L. Shao, 
   (2021)
   *Precession of spheroids under Lorentz violation and observational consequences for neutron stars*, 
-  [Phys. Rev. D {**103**, 084028](https://doi.org/10.1103/PhysRevD.103.084028)
+  [Phys. Rev. D **103**, 084028](https://doi.org/10.1103/PhysRevD.103.084028)
   <a href="http://arxiv.org/abs/2012.01320" style="color: #F48FB1;">[arXiv]</a>.
 
 
