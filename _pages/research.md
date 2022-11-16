@@ -24,7 +24,7 @@ Studying gravitational dynamics of systems involving NSs and extracting physical
 the dense matter from gravitational waves (GWs) and pulsars' electromagnetic radiation are the general goals of my research.
 
 
-# Testing gravity:  
+# Testing gravity 
 <hr style="border:1px solid gray">
 
-General Relativity (GR) describes gravity by means of geometry of spacetime. Theoretically, it is incompatible with quantum theory and predicts spacetime singularities under generic conditions. Observationally, the unknown dark matter and dark energy take up $95\%$ energy content of our Universe, which may indicate that gravity is in fact something beyond GR. These fundamental questions motivate us to test GR and our ultimate goal is to see whether it will fail in regions of the parameter space that are accessible to our experiments or observations. 
+General Relativity (GR) describes gravity by means of geometry of spacetime. Theoretically, it is incompatible with quantum theory and predicts spacetime singularities under generic conditions. Observationally, the unknown dark matter and dark energy take up 95% energy content of our Universe, which may indicate that gravity is in fact something beyond GR. These fundamental questions motivate us to test GR and our ultimate goal is to see whether it will fail in regions of the parameter space that are accessible to our experiments or observations. 
