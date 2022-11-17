@@ -13,9 +13,8 @@ header:
 ![]({{ site.url }}/images/yong_front.png)
 {: .align-right style="width: 300px"} 
 
-I am currently a PhD student in the [gravitational astrophysics](https://kiaagravity.github.io/about/) group 
-of [Lijing Shao](http://friendshao.github.io/about/) at the [Peking University](https://english.pku.edu.cn/).
-I am also a member of the [pulsar group](https://psr.pku.edu.cn/) at the Peking University.
+Welcome to my website! I am currently a PhD student in the [gravitational astrophysics](https://kiaagravity.github.io/about/) group 
+of [Lijing Shao](http://friendshao.github.io/about/) at the [Peking University](https://english.pku.edu.cn/). I am also a member of the [pulsar group](https://psr.pku.edu.cn/) at the Peking University.
 
 Briefly, My research interests center around compact stars and strong-field gravity. 
 

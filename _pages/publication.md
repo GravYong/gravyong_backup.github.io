@@ -24,22 +24,37 @@ I also list my publications below for consistency.
 
 # 2022
 
-1. **Y. Gao**,
+1. G. Desvignes,
+  P. Weltevrede,
+  **Y. Gao**,
+  D. I. Jones,
+  M. Kramer,
+  M. Caleb,
+  R. Karuppusamy,
+  L. Levin,
+  K. Liu,
+  A. G. Lyne,
+  L. Shao,
+  B. Stappers,
+  *A freely precessing magnetar following an X-ray outburst*,
+  submitted to Nature Astronomy.
+
+2. **Y. Gao**,
   L. Shao,
   G. Desvignes,
   D. I. Jones,
   M. Kramer,
   G. Yim,
   *Precession of magnetars: dynamical evolutions and modulations on polarized electromagnetic waves*,
-  submitted to MNRAS.
+  submitted MNRAS.
 
-2. **Y. Gao**, 
+3. **Y. Gao**, 
   R. Xu, 
   L. Shao, 
   *Precession of spheroids under Lorentz violation and observational consequences for neutron stars*, 
   Proceedings of the Ninth Meeting on CPT and Lorentz Symmetry, in press.
 
-3. H.-B. Li, 
+4. H.-B. Li, 
   **Y. Gao**,
   L. Shao, 
   R.-X. Xu, 
@@ -49,7 +64,7 @@ I also list my publications below for consistency.
   [Mon. Not. R. Astron. Soc. **516**, 6172](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac2622/6705433)
   <a href="http://arxiv.org/abs/2206.09407" style="color: #F48FB1;">[arXiv]</a>.
 
-4. **Y, Gao**, 
+5. **Y, Gao**, 
   X.-Y. Lai, 
   L. Shao, 
   R.-X. Xu,
@@ -58,7 +73,7 @@ I also list my publications below for consistency.
   [Mon. Not. R. Astron. Soc. **509**, 2758](https://doi.org/10.1093/mnras/stab3181)
   <a href="http://arxiv.org/abs/2109.13234" style="color: #F48FB1;">[arXiv]</a>.
 
-5. R. Xu, 
+6. R. Xu, 
   **Y. Gao**, 
   L. Shao, 
   (2022)
