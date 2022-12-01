@@ -46,7 +46,8 @@ I also list my publications below for consistency.
   M. Kramer,
   G. Yim,
   *Precession of magnetars: dynamical evolutions and modulations on polarized electromagnetic waves*,
-  submitted MNRAS.
+  accepted by MNRAS
+  <a href="http://arxiv.org/abs/2211.17087" style="color: #F48FB1;">[arXiv]</a>
 
 3. **Y. Gao**, 
   R. Xu, 
