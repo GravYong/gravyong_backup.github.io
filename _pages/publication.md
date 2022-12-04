@@ -156,3 +156,24 @@ I also list my publications below for consistency.
   <a href="http://arxiv.org/abs/2004.12096" style="color: #F48FB1;">[arXiv]</a>.
 {: reversed="reversed"}
 
+---
+
+# Popular science articles
+
+1. **Y. Gao**, 
+(2022) 
+[The structures of neutron stars](https://gravyong.github.io/files/NS_Structure_Popular.pdf) (an article about dense matter in neutron stars, in Chinese).
+
+2. **Y. Gao**,
+   L. Shao, 
+   (2022) 
+   [Does Einstein's theory of gravity hold up to the latest LIGO/VIRGO/KAGRA observations?](https://www.ligo.org/science/Publication-O3bTGR/translations/science-summary-chinese-simplified.pdf) (translated from [the Einglish version](https://www.ligo.org/science/Publication-O3bTGR/)).
+
+3. **Y. Gao**, 
+L. Shao, 
+R.-X. Xu, 
+(2019) [The waltz of a binary neutron star system](https://gravyong.github.io/files/BNS_Popular.pdf) (an article about GW170817, in Chinese).
+{: reversed="reversed"}
+
+
+
