@@ -37,7 +37,8 @@ I also list my publications below for consistency.
   L. Shao,
   B. Stappers,
   *A freely precessing magnetar following an X-ray outburst*,
-  submitted to Nature Astronomy.
+  submitted to Nature Astronomy
+  <a href="https://assets.researchsquare.com/files/rs-2281053/v1/8d2a4cf0b98fad7eece4a662.pdf?c=1670213325" style="color: #F48FB1;">[Research Square]</a>.
 
 2. **Y. Gao**,
   L. Shao,
@@ -46,8 +47,8 @@ I also list my publications below for consistency.
   M. Kramer,
   G. Yim,
   *Precession of magnetars: dynamical evolutions and modulations on polarized electromagnetic waves*,
-  accepted by MNRAS
-  <a href="http://arxiv.org/abs/2211.17087" style="color: #F48FB1;">[arXiv]</a>
+  accepted by Mon. Not. R. Astron. Soc.
+  <a href="http://arxiv.org/abs/2211.17087" style="color: #F48FB1;">[arXiv]</a>.
 
 3. **Y. Gao**, 
   R. Xu, 
