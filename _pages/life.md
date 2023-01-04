@@ -13,7 +13,7 @@ header:
 I love novels and movies. 
 
 
-My favorite writers: Italo Calvino, Anton Chekhov, Hua Yu, Wislawa Szymborska, Xiaobo Wang, William Somerset Maugham...
+My favorite writers: Italo Calvino, Anton Chekhov, Hua Yu, Wislawa Szymborska, Xiaobo Wang, William Somerset Maugham, Ernest Hemingway...
 
 
 
