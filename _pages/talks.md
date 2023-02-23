@@ -24,6 +24,8 @@ header:
 
 # Contributed talks in conferences
 <hr style="border:1px solid gray">
+
+* Precession of magnetars and modulations on polarized electromagnetic waves, talk, **Physics Five Universities**, Peking University, China, August 2022.
  
 * Rotation and tidal deformation of NSs in General Relativity and massive scalar-tensor gravity, talk, **SKA Pulsar Science Symposium 2022**, Xiangtan, China, August 2022.
 
