@@ -31,7 +31,7 @@ header:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-You can see the embedded PDF below or <u><a href="{{ site.url }}/cv/Yong.pdf">download it here.</a></u>
+You can see the embedded PDF below or <u><a href="https://gravyong.github.io/cv/Yong.pdf">download it here.</a></u>
 <br/>
 
 <embed src="https://gravyong.github.io/cv/Yong.pdf" type="application/pdf" width="100%" />

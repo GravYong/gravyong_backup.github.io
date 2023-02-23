@@ -13,16 +13,9 @@ header:
 # Neutron stars
 <hr style="border:1px solid gray">
 
-NSs are the most compact known objects without event horizons and serve as extreme laboratories to 
-study the super-dense nuclear matter. To give a realistic matter description, we need 
-to account for supranuclear matter physics, superfluidity/superconductivity, strong magnetic fields, elasticity and so on. 
-So, the problem of understanding the composition and state of matter under extreme conditions inside 
-NSs presents a great challenge in fundamental physics and astrophysics. 
+Neutron stars (NSs) are the most compact objects known to exist without event horizons, and they serve as extreme laboratories for studying super-dense nuclear matter. To provide a realistic matter description, we need to account for supranuclear matter physics, superfluidity/superconductivity, strong magnetic fields, and elasticity, among other factors. Therefore, understanding the composition and state of matter under extreme conditions inside NSs presents a significant challenge in fundamental physics and astrophysics.
 
-
-Studying gravitational dynamics of systems involving NSs and extracting physical properties relating to different aspects of 
-the dense matter from gravitational waves (GWs) and pulsars' electromagnetic radiation are the general goals of my research.
-
+My research focuses on studying the gravitational dynamics of systems involving NSs and extracting physical properties related to different aspects of dense matter from gravitational waves (GWs) and pulsars' electromagnetic radiation. 
 
 # Gravity tests in the strong-field regime of compact objects
 <hr style="border:1px solid gray">
