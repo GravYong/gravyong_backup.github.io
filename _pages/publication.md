@@ -22,6 +22,16 @@ I also list my publications below for consistency.
 </p>
 <hr style="border:1px solid gray">
 
+# 2023
+
+1. Hongbo Li,
+   Yong Gao,
+  Lijing Shao,
+  Renxin Xu,
+  *The g-mode of neutron stars in Pseudo-Newtonian gravity*
+  submitted to Mon. Not. R. Astron. Soc.
+  <a href="https://doi.org/10.48550/arXiv.2302.03856" style="color: #F48FB1;">[arXiv]</a>.
+
 # 2022
 
 1. G. Desvignes,
