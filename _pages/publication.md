@@ -24,13 +24,55 @@ I also list my publications below for consistency.
 
 # 2023
 
-1. Hongbo Li,
-   Yong Gao,
-  Lijing Shao,
-  Renxin Xu,
-  *The g-mode of neutron stars in Pseudo-Newtonian gravity*
-  submitted to Mon. Not. R. Astron. Soc.
+1. C. Zhang,
+  **Y. Gao**,
+  C. J. Xia,
+  R.-X. Xu,
+  *Rescaling strangeon stars and its implications on gravitational-wave echoes*,
+  submitted to Phys. Rev. D
+  <a href="https://doi.org/10.48550/arXiv.2305.13323" style="color: #F48FB1;">[arXiv]</a>.
+
+2. E. P. Zhou, 
+  **Y. Gao**,
+  Y. R. Zhou, 
+  X. Y. Lai, 
+  L. Shao,
+  W. Y. Wang, 
+  S.-L. Xiong, 
+  R.-X. Xu, 
+  S. X. Yi, 
+  H. Yue, 
+  Z. Zhang,
+  *The precursor of GRB211211A: a tide-induced giant quake?*,
+  submitted to Research in Astronomy and Astrophysics
+  <a href="https://doi.org/10.48550/arXiv.2305.10682" style="color: #F48FB1;">[arXiv]</a>.
+
+3. S. C. Chen,
+   **Y. Gao**,
+   E. P. Zhou,
+   R.-X. Xu,
+   *Free energy of anisotropic strangeon stars*,
+   submitted to Research in Astronomy and Astrophysics
+  <a href="https://doi.org/10.48550/arXiv.2305.19687" style="color: #F48FB1;">[arXiv]</a>.
+
+4. **Y. Gao**,
+    L. Shao,
+    J. Steinhoff,
+    *A tight universal relation between the shape eccentricity and the moment of inertia for rotating neutron stars*,
+    submitted to Astrophys. J 
+    <a href="https://doi.org/10.48550/arXiv.2303.14130" style="color: #F48FB1;">[arXiv]</a>.
+
+
+
+1. H.-B. Li,
+   Y. Gao,
+  L. Shao,
+  R.-X. Xu,
+  *The g-mode of neutron stars in Pseudo-Newtonian gravity*,
+  submitted to Phys. Rev. D
   <a href="https://doi.org/10.48550/arXiv.2302.03856" style="color: #F48FB1;">[arXiv]</a>.
+
+
 
 # 2022
 
@@ -71,7 +113,6 @@ I also list my publications below for consistency.
   L. Shao, 
   R.-X. Xu, 
   R. Xu, 
-  (2022)
   *Oscillation modes and gravitational waves from strangeon stars*,
   [Mon. Not. R. Astron. Soc. **516**, 6172](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stac2622/6705433)
   <a href="http://arxiv.org/abs/2206.09407" style="color: #F48FB1;">[arXiv]</a>.
@@ -80,7 +121,6 @@ I also list my publications below for consistency.
   X.-Y. Lai, 
   L. Shao, 
   R.-X. Xu,
-  (2022)
   *Rotation and deformation of strangeon stars in the Lennard-Jones model*, 
   [Mon. Not. R. Astron. Soc. **509**, 2758](https://doi.org/10.1093/mnras/stab3181)
   <a href="http://arxiv.org/abs/2109.13234" style="color: #F48FB1;">[arXiv]</a>.
@@ -88,7 +128,6 @@ I also list my publications below for consistency.
 6. R. Xu, 
   **Y. Gao**, 
   L. Shao, 
-  (2022)
   *Neutron stars in massive scalar-Gauss-Bonnet gravity: Spherical structure and time-independent perturbations*, 
   [Phys. Rev. D **105**, 024003](https://doi.org/10.1103/PhysRevD.105.024003)
   <a href="http://arxiv.org/abs/2111.06561" style="color: #F48FB1;">[arXiv]</a>.
@@ -102,7 +141,6 @@ I also list my publications below for consistency.
   **Y. Gao**,
   R. Xu, 
   L. Shao, 
-  (2021)
   *Scalarized neutron stars in massive scalar-tensor gravity: X-ray pulsars and tidal deformability*, 
   [Phys. Rev. D **104**, 104014](https://doi.org/10.1103/PhysRevD.104.104014)
   <a href="http://arxiv.org/abs/2109.13453" style="color: #F48FB1;">[arXiv]</a>.
@@ -110,7 +148,6 @@ I also list my publications below for consistency.
 2. R. Xu, 
   **Y. Gao**,
   L. Shao, 
-  (2021)
   *Signature of Lorentz violation in continuous gravitational-wave spectra of ellipsoidal neutron stars*, 
   [Galaxies **9**, 12](https://doi.org/10.3390/galaxies9010012)
   <a href="http://arxiv.org/abs/2101.09431" style="color: #F48FB1;">[arXiv]</a>.
@@ -121,7 +158,6 @@ I also list my publications below for consistency.
   C. Liu, 
   Z. Cao, 
   B.-Q. Ma,
-  (2021) 
   *Probing dipole radiation from binary neutron stars with ground-based laser-interferometer and atom-interferometer gravitational-wave observatories*, 
   [Phys. Rev. D **104**, 084008](https://doi.org/10.1103/PhysRevD.104.084008)
   <a href="http://arxiv.org/abs/2106.04883" style="color: #F48FB1;">[arXiv]</a>.
@@ -129,7 +165,6 @@ I also list my publications below for consistency.
 4. R. Xu, 
   **Y. Gao**, 
   L. Shao, 
-  (2021)
   *Precession of spheroids under Lorentz violation and observational consequences for neutron stars*, 
   [Phys. Rev. D **103**, 084028](https://doi.org/10.1103/PhysRevD.103.084028)
   <a href="http://arxiv.org/abs/2012.01320" style="color: #F48FB1;">[arXiv]</a>.
@@ -137,7 +172,6 @@ I also list my publications below for consistency.
 
 5. **Y. Gao**, 
   L. Shao,
-  (2021) 
   *Precession of triaxially deformed neutron stars*, 
   [Astron. Nachr. **342**, 364](https://doi.org/10.1002/asna.202113935)
   <a href="http://arxiv.org/abs/2011.04472" style="color: #F48FB1;">[arXiv]</a>.
@@ -152,7 +186,6 @@ I also list my publications below for consistency.
   L. Sun, 
   C. Liu, 
   R.-X. Xu,
-  (2020) 
   *Triaxially-deformed freely-precessing neutron stars: continuous electromagnetic and gravitational radiation*, 
   [Mon. Not. R. Astron. Soc. **498**, 1826](https://doi.org/10.1093/mnras/staa2476)
   <a href="http://arxiv.org/abs/2007.02528" style="color: #F48FB1;">[arXiv]</a>.
@@ -161,10 +194,18 @@ I also list my publications below for consistency.
   L. Shao, 
   J. Zhao, 
   **Y. Gao**, 
-  (2020)
   *Multiband observation of LIGO/Virgo binary black hole mergers in the gravitational-wave transient catalog GWTC-1*, 
   [Mon. Not. R. Astron. Soc. **496**, 182](https://doi.org/10.1093/mnras/staa1512)
   <a href="http://arxiv.org/abs/2004.12096" style="color: #F48FB1;">[arXiv]</a>.
+
+3. R. Xu, 
+  **Y. Gao**, 
+  L. Shao, 
+  *Strong-field effects in massive scalar-tensor gravity for slowly spinning neutron stars and application to X-ray pulsar pulse profiles*, 
+  [Phys. Rev. D **102**, 064057](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.102.064057)
+  <a href="http://arxiv.org/abs/2007.10080" style="color: #F48FB1;">[arXiv]</a>.
+
+
 {: reversed="reversed"}
 
 ---
