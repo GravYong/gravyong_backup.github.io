@@ -59,19 +59,19 @@ I also list my publications below for consistency.
     L. Shao,
     J. Steinhoff,
     *A tight universal relation between the shape eccentricity and the moment of inertia for rotating neutron stars*,
-    submitted to Astrophys. J 
+    submitted to Astrophys. J. 
     <a href="https://doi.org/10.48550/arXiv.2303.14130" style="color: #F48FB1;">[arXiv]</a>.
 
 
 
-1. H.-B. Li,
+5. H.-B. Li,
    Y. Gao,
   L. Shao,
   R.-X. Xu,
-  *The g-mode of neutron stars in Pseudo-Newtonian gravity*,
+  *The g-mode of neutron stars in pseudo-Newtonian gravity*,
   submitted to Phys. Rev. D
   <a href="https://doi.org/10.48550/arXiv.2302.03856" style="color: #F48FB1;">[arXiv]</a>.
-
+{: reversed="reversed"}
 
 
 # 2022
