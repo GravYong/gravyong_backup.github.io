@@ -29,7 +29,7 @@ I also list my publications below for consistency.
   C. J. Xia,
   R.-X. Xu,
   *Rescaling strangeon stars and its implications on gravitational-wave echoes*,
-  submitted to Phys. Rev. D
+  accepted by Phys. Rev. D
   <a href="https://doi.org/10.48550/arXiv.2305.13323" style="color: #F48FB1;">[arXiv]</a>.
 
 2. E. P. Zhou, 
@@ -59,7 +59,7 @@ I also list my publications below for consistency.
     L. Shao,
     J. Steinhoff,
     *A tight universal relation between the shape eccentricity and the moment of inertia for rotating neutron stars*,
-    submitted to Astrophys. J. 
+    accepted by Astrophys. J. 
     <a href="https://doi.org/10.48550/arXiv.2303.14130" style="color: #F48FB1;">[arXiv]</a>.
 
 
