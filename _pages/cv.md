@@ -15,7 +15,8 @@ header:
 
 | Time         	| Position                   	| School/Institute                	| City                      	| Country 	|
 |--------------	|----------------------------	|---------------------------------	|---------------------------	|---------	|
-| 2018-present 	| PhD student                	| Peking University               	| Beijing                   	| China   	|
+| 2023-present 	| Postdoctoral researcher       | Albert Einstein Institute         | Potsdam                   	| Germany   |
+| 2018-2023 	| PhD student                	| Peking University               	| Beijing                   	| China   	|
 | 2014-2018    	| Undergraduate student      	| Dalian University of Technology 	| Dalian, Liaoning province 	| China   	|
 | 2011-2014    	| Senior high school student 	| Jiayuguan No.1 high school      	| Jiayuguan, Gansu province 	| China   	|
 | 2010-2011    	| Middle school student      	| Yumen No.3 Middle school        	| Yumen, Gansu province     	| China   	|

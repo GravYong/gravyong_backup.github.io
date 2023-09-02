@@ -69,7 +69,7 @@ I also list my publications below for consistency.
   L. Shao,
   R.-X. Xu,
   *The g-mode of neutron stars in pseudo-Newtonian gravity*,
-  submitted to Phys. Rev. D
+  accepted by Phys. Rev. D
   <a href="https://doi.org/10.48550/arXiv.2302.03856" style="color: #F48FB1;">[arXiv]</a>.
 {: reversed="reversed"}
 
